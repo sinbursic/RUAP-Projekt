@@ -11,7 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Pozdrav iz aplikacije od Siniše Buršića");
-            Console.WriteLine("Broj indeksa: 3005000");
+
         }
     }
 }
